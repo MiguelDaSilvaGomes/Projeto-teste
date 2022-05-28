@@ -3,5 +3,5 @@
 -  to no github
 
 ## Capitulo 1
- só vai por ai
+ só vai por ai certo
  e ta certo
