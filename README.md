@@ -1,7 +1,5 @@
-# Projeto teste
-- ihhuuu funcionou
--  to no github
-- Eu estou usando o github 
-## Capitulo 1
- só vai por ai certo
- e ta certo
+# Projeto android
+- Projeto feito com HTML e CSS
+- Pelo Visual Studio Code
+- Solo
+
